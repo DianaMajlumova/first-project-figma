@@ -1,0 +1,11 @@
+.backround_image {
+  background-image: url("../img/Rectangle 9.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100vw;
+  height: 110vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}/*# sourceMappingURL=main.css.map */
